@@ -1,0 +1,7 @@
+/group/nps/hhuang/software/HallC_NPS/DVCS_evt_gen/build/CMakeFiles/DVCS.dir
+/group/nps/hhuang/software/HallC_NPS/DVCS_evt_gen/build/CMakeFiles/edit_cache.dir
+/group/nps/hhuang/software/HallC_NPS/DVCS_evt_gen/build/CMakeFiles/rebuild_cache.dir
+/group/nps/hhuang/software/HallC_NPS/DVCS_evt_gen/build/CMakeFiles/list_install_components.dir
+/group/nps/hhuang/software/HallC_NPS/DVCS_evt_gen/build/CMakeFiles/install.dir
+/group/nps/hhuang/software/HallC_NPS/DVCS_evt_gen/build/CMakeFiles/install/local.dir
+/group/nps/hhuang/software/HallC_NPS/DVCS_evt_gen/build/CMakeFiles/install/strip.dir
